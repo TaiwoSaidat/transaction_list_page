@@ -30,6 +30,7 @@ CSS-in-JS - Tailwind utility classes for styling
 Client-Side Rendering - React hooks for state management
 
 ## Project set up / installation
+
 ```bash
 git clone https://github.com/taiwoSaidat/
 ```
@@ -44,9 +45,9 @@ Go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view
 
 ## Screenshots
 
-- Transactions 
+- Transactions
 
-
+![transactions](public/transactions.png)
 
 - Successful
 
