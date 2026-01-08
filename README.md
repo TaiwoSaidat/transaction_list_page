@@ -3,6 +3,7 @@
 This is a React(Next) project shwowing the transactions dashboard with filters enabled for transaction status. Transaction table shows Transaction ID, AMount, Stattus and dates. Next is used in this project as react is depreciated and no longer supported therefore non viable for new prejects
 
 ### Problem solved
+
 This displays all transaction of a subject in will minimal information in a scannable format.
 Filteration by transaction status
 
@@ -10,16 +11,16 @@ Filteration by transaction status
 
 ### Frontend Framework & Libraries
 
-Next.js 16.1.1 - React framework with App Router
-React 19.2.3 - UI component library
-TypeScript 5 - Type-safe JavaScript
-Tailwind CSS 4 - Utility-first CSS framework
+- Next.js 16.1.1 - React framework with App Router
+- React 19.2.3 - UI component library
+- TypeScript 5 - Type-safe JavaScript
+- Tailwind CSS 4 - Utility-first CSS framework
 
 ### Development Tools
 
-ESLint - Code linting and quality
-PostCSS - CSS processing
-Node.js - JavaScript runtime
+- ESLint - Code linting and quality
+- PostCSS - CSS processing
+- Node.js - JavaScript runtime
 
 ### Design Decisions
 
@@ -29,19 +30,29 @@ CSS-in-JS - Tailwind utility classes for styling
 Client-Side Rendering - React hooks for state management
 
 ## Project set up / installation
+```bash
+git clone https://github.com/taiwoSaidat/
+```
 
 ```bash
 npm run dev
 ```
 
-on cloned repo
-
 or
 
-go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view project
+Go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view project
 
 ## Screenshots
 
+- Transactions 
+
+
+
+- Successful
+
+- Pending
+
+- Failed
 
 ## AI usage
 
@@ -51,11 +62,9 @@ I used Claude for code base structure and suggestion on structuring my Readme gi
 
 ### Things i would have loved to add if there was time
 
-Pagination: Even though this is a mock date for 10 itmes, a pagination is better suited in case of scaling up the project.
-Search functiomality feature: A search functionality page will make it easy to search based on transaction id or date instead of scrolling.
-Data info page using ID: A data info page tailored to each transaction showing information such as b, sender and reciever's personal and ank information to and from, date and time transaction was made, transaction status, etc.
-FIlteration based on dates: A filteration system based on dates will be a welcome addition as it will limit the nosie when searching for a particular transaction but details such as name and bank name havee forgotten.
-A home page with naavbar, sidebar and footer included.
-Better UI
-
-
+- Pagination: Even though this is a mock date for 10 itmes, a pagination is better suited in case of scaling up the project.
+- Search functiomality feature: A search functionality page will make it easy to search based on transaction id or date instead of scrolling.
+- Data info page using ID: A data info page tailored to each transaction showing information such as b, sender and reciever's personal and ank information to and from, date and time transaction was made, transaction status, etc.
+- FIlteration based on dates: A filteration system based on dates will be a welcome addition as it will limit the nosie when searching for a particular transaction but details such as name and bank name havee forgotten.
+- A home page with navbar, sidebar and footer included.
+- Better UI including cards at the top showing number of transactions and successful, failed transacins at a glance after being counted, uniform color scheme tailored to the project, etc
