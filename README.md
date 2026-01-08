@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a React(Next) project. Next is used in this project as react is depreciated and no longer supported therefore non viable for new prejects
 
-## Getting Started
+## Transaction Dashboard
 
-First, run the development server:
+### Technologies used
+
+next: 16.1.1
+react: 19.2.3
+react-dom: 19.2.3
+tailwindcss: ^4
+typescript: ^5
+
+## Project set up / installation
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+or
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view project
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## AI usage
 
-## Learn More
+[Claude](https://claude.ai/chat/960dda3a-8b61-4c55-b95a-6e5425222deb)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+I used Claude for code base structure and suggestion on structuring my Readme giving it instrucrions based on the assessment given. i gave claude ai adequate information in order to generate the best output and make sure it does not hallucinate. i also made sure i did not bombard with too much information to achieve the same result.
