@@ -22,6 +22,6 @@ go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view
 
 ## AI usage
 
-[Claude](https://claude.ai/chat/960dda3a-8b61-4c55-b95a-6e5425222deb)
+[Claude](https://claude.ai/chat/fa1b95a7-f16c-41f5-82c9-59e1e98a28c9)
 
 I used Claude for code base structure and suggestion on structuring my Readme giving it instrucrions based on the assessment given. i gave claude ai adequate information in order to generate the best output and make sure it does not hallucinate. i also made sure i did not bombard with too much information to achieve the same result.
