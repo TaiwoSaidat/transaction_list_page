@@ -9,36 +9,37 @@ Filteration by transaction status
 
 ### Technologies used
 
-### Frontend Framework & Libraries
+## Frontend Framework & Libraries
 
 - Next.js 16.1.1 - React framework with App Router
 - React 19.2.3 - UI component library
 - TypeScript 5 - Type-safe JavaScript
 - Tailwind CSS 4 - Utility-first CSS framework
 
-### Development Tools
+## Development Tools
 
 - ESLint - Code linting and quality
 - PostCSS - CSS processing
 - Node.js - JavaScript runtime
 
-### Design Decisions
+## Design Decisions
 
 Component Architecture - Modular, reusable components
 Type Safety - Full TypeScript implementation
 CSS-in-JS - Tailwind utility classes for styling
 Client-Side Rendering - React hooks for state management
 
-## Project set up / installation
+### Project set up / installation
 
 ```bash
-git clone https://github.com/taiwoSaidat/
+git clone https://github.com/TaiwoSaidat/transaction_list_page
 ```
+then 
 
 ```bash
 npm run dev
 ```
-
+on vscode
 or
 
 Go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view project
@@ -60,7 +61,7 @@ Go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view
 - Failed
   ![failed](public/failed.png)
 
-## AI usage
+### AI usage
 
 [Claude](https://claude.ai/chat/fa1b95a7-f16c-41f5-82c9-59e1e98a28c9)
 
