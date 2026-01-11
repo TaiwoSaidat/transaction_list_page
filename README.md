@@ -61,6 +61,10 @@ Go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view
 
 I used Claude for code base structure and suggestion on structuring my Readme giving it instrucrions based on the assessment given. i gave claude ai adequate information in order to generate the best output and make sure it does not hallucinate. i also made sure i did not bombard with too much information to achieve the same result.
 
+[Chatgpt](https://chatgpt.com/c/695f334b-7184-8333-948b-be1ac21fa29e)
+
+Chatgpt to resolve bugs such as the experimental turbo compiler issues
+
 ### Things i would have loved to add if there was time
 
 - Pagination: Even though this is a mock date for 10 itmes, a pagination is better suited in case of scaling up the project.
