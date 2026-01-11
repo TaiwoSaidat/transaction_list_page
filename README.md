@@ -51,9 +51,14 @@ Go to [transactons dashboard](https://transaction-list-page.vercel.app/) to view
 
 - Successful
 
+![success](public/success.png)
+
 - Pending
 
+![pending](public/pending.png)
+
 - Failed
+  ![failed](public/failed.png)
 
 ## AI usage
 
